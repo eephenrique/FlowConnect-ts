@@ -20,7 +20,7 @@ const posts: PostType[] = [
                 comment: undefined
               },
               {
-                type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat.  O nome do projeto é DoctorCare 🚀',
+                type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',
                 comment: undefined
               },
               {
